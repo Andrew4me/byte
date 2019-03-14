@@ -50,5 +50,3 @@ del droid2
 
 Robot.howMany()
 
-
-
